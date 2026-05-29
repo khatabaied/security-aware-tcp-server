@@ -100,4 +100,9 @@ The server listens on localhost and clients connect using the same IP address an
 
 This project helped strengthen my understanding of how network applications communicate over TCP. I practiced building a server that can handle multiple clients, designing a structured protocol, tracking client sessions, logging activity, and debugging client-server communication issues.
 
+## Copyright
+
+© 2026 Khatab Aied. All rights reserved.
+
+This repository is shared publicly for portfolio and educational viewing purposes only. Do not copy, redistribute, or submit this work as your own.
 
