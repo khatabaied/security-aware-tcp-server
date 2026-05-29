@@ -70,31 +70,31 @@ The server listens on localhost and clients connect using the same IP address an
 
 ### Server Initialization
 
-![Server Initialization](screenshots/server-initialization.png)
+![Server Initialization](Screenshots/server-initialization.png)
 
 ### Client Initialization
 
-![Client Initialization](screenshots/client-initialization.png)
+![Client Initialization](Screenshots/client-initialization.png)
 
 ### Server - Simultaneous Client Loop
 
-![Server Simultaneous Loop](screenshots/server-simultaneous-loop.png)
+![Server Simultaneous Loop](Screenshots/server-simultaneous-loop.png)
 
 ### Complex Equations - Server and Multiple Clients
 
-![Complex Equations Server](screenshots/complex-equations-server.png)
+![Complex Equations Server](Screenshots/complex-equations-server.png)
 
-![Complex Equations Client 1](screenshots/complex-equations-client1.png)
+![Complex Equations Client 1](Screenshots/complex-equations-client1.png)
 
-![Complex Equations Client 2](screenshots/complex-equations-client2.png)
+![Complex Equations Client 2](Screenshots/complex-equations-client2.png)
 
-![Complex Equations Client 3](screenshots/complex-equations-client3.png)
+![Complex Equations Client 3](Screenshots/complex-equations-client3.png)
 
 ### Preprogrammed Loop Test
 
-![Preprogrammed Loop Server](screenshots/preprogrammed-loop-server.png)
+![Preprogrammed Loop Server](Screenshots/preprogrammed-loop-server.png)
 
-![Preprogrammed Loop Client](screenshots/preprogrammed-loop-client.png)
+![Preprogrammed Loop Client](Screenshots/preprogrammed-loop-client.png)
 
 ## What I Learned
 
