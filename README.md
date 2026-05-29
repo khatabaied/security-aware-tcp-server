@@ -100,7 +100,4 @@ The server listens on localhost and clients connect using the same IP address an
 
 This project helped strengthen my understanding of how network applications communicate over TCP. I practiced building a server that can handle multiple clients, designing a structured protocol, tracking client sessions, logging activity, and debugging client-server communication issues.
 
-## Suggested Resume Description
 
-**Security-Aware Multi-Client TCP Server | Python, TCP Sockets, Threading, JSON**  
-Built a Python TCP server that accepts concurrent client connections and processes math requests over a JSON-based protocol. Implemented threaded client handling
