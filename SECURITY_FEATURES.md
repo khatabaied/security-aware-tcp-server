@@ -23,6 +23,3 @@ The server now logs events like:
 [SECURITY] event=RATE_LIMIT_TRIGGERED user=alice ip=127.0.0.1:50001 details=too many requests in short time window
 ```
 
-## Resume Framing
-
-This is still a networking/programming project, but it can now be described as security-aware because it includes authentication, input validation, rate limiting, and audit logging.
